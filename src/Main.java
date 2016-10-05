@@ -14,7 +14,7 @@ public class Main {
 		System.out.println("Tredje resultatet: " + li.linearIn(outer, inner3));
 		
 		int[] inner4 = {-2,4,8,11,36,37};
-		System.out.println("Fjärde resultatet: " + li.linearIn(outer, inner3));
+		System.out.println("Fjärde resultatet: " + li.linearIn(outer, inner4));
 	}
 
 }
